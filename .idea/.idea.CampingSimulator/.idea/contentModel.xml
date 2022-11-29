@@ -246,6 +246,16 @@
             </e>
           </e>
         </e>
+        <e p="VR Hands FP Arms" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="HandAnimatorManager.cs" t="Include" />
+            <e p="HandAnimatorManagerVR.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Skin Shader Dynamic.shader" t="Include" />
+            <e p="Skin Shader.shader" t="Include" />
+          </e>
+        </e>
       </e>
       <e p="CampingSimulator.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
